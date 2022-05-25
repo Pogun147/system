@@ -1,2 +1,3 @@
-# systemanalysis
-for test
+# systemanalysis.sh
+df -h
+du -h
